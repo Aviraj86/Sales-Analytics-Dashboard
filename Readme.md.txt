@@ -74,3 +74,10 @@ python/ → Python Notebook for Data Cleaning and EDA
 sql/ → SQL Queries and Business Analysis
 
 dashboard/ → Power BI Dashboard
+
+
+---
+
+# Dashboard Preview
+
+![Sales Analytics Dashboard](dashboard/Dashboard SS.png)
